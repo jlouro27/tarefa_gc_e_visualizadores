@@ -1,1 +1,18 @@
 /* css styles */
+.navbar {
+    background-color: #000;
+    color: #ccd1d5;
+}
+.navbar-brand {
+    padding-top: var(--bs-navbar-brand-padding-y);
+    padding-bottom: var(--bs-navbar-brand-padding-y);
+    margin-right: var(--bs-navbar-brand-margin-end);
+    font-size: var(--bs-navbar-brand-font-size);
+    color: #fff;
+    text-decoration: none;
+    -webkit-text-decoration: none;
+    -moz-text-decoration: none;
+    -ms-text-decoration: none;
+    -o-text-decoration: none;
+    white-space: nowrap;
+}
